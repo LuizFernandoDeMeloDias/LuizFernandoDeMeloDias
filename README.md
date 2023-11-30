@@ -5,8 +5,6 @@
 - 🕗 &nbsp; Nasci em 07/03/2003.<br>
 - 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS, Vue.js, React.js.<br>
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?LuizFernandoDeMeloDias=anuraghazra&show_icons=true&theme=radical)
-
 <h3> 📖: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
