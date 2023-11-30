@@ -1,7 +1,7 @@
 <h1>Seja bem vindo ao meu perfil. </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernandoDeMeloDias&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoDeMeloDias&layout=pie)](https://github.com/LuizFernandoDeMeloDias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoDeMeloDias&layout=Demo)](https://github.com/LuizFernandoDeMeloDias/github-readme-stats)
 <h3> 👦: &nbsp;Sobre mim </h3>
 - 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
 - 🕗 &nbsp; Nasci em 07/03/2003.<br>
