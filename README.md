@@ -1,6 +1,6 @@
 <h1>Seja bem vindo ao meu perfil. </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernandoDeMeloDias&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernandoDeMeloDias&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoDeMeloDias&hide_progress=true)
 
 <h3> 👦: &nbsp;Sobre mim </h3>
 - 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
