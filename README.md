@@ -9,7 +9,7 @@
 <a href="htttps//:github.com/LuizFernandoDeMeloDias">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LuizFernandoDeMeloDIas=anuraghazra&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LuizFernandoDeMeloDIas=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<\div>
+</div>
 <h3> 📖: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
