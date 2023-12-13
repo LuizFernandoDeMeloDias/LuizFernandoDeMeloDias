@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoDeMeloDias)](https://github.com/LuizFernandoDeMeloDias/github-readme-stats)
 <h3> 👦: &nbsp;Sobre mim </h3>
 - 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
-- 📚 &nbsp; Atualmente cursando Técnologo em Sistemas Para Internet pela Uniasselv.
+- 📚 &nbsp; Atualmente cursando Técnologo em Sistemas Para Internet pela Uniasselv. <br>
 - 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS, Vue.js, React.js, Inglês, GdScript, JAVA, e SQL.<br>
 
 <h3> 📖: &nbsp;Minhas Skills </h3>
