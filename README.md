@@ -1,11 +1,11 @@
-<h1>Seja bem vindo ao meu perfil. </h1>
+<h1>Seja bem vindo ao meu perfil do GitHub. </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFernandoDeMeloDias&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoDeMeloDias)](https://github.com/LuizFernandoDeMeloDias/github-readme-stats)
 <h3> 👦: &nbsp;Sobre mim </h3>
 - 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
-- 🕗 &nbsp; Nasci em 07/03/2003.<br>
-- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS, Vue.js, React.js.<br>
+- 📚 &nbsp; Atualmente cursando Técnologo em Sistemas Para Internet pela Uniasselv.
+- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS, Vue.js, React.js, Inglês, GdScript, JAVA, e SQL.<br>
 
 <h3> 📖: &nbsp;Minhas Skills </h3>
 
@@ -22,7 +22,7 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-
+  
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Luiz Fernando](https://img.shields.io/badge/-Luiz_Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-fernando-dias-425894251/)](https://www.linkedin.com/in/luiz-fernando-dias-425894251/)
