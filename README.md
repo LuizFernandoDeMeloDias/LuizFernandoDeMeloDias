@@ -5,18 +5,10 @@
 <h3> 👦: &nbsp;Sobre mim </h3>
 - 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
 - 📚 &nbsp; Atualmente cursando Técnologo em Sistemas Para Internet pela Uniasselv. <br>
-- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos, JS, HTML, CSS, Vue.js, React.js, Inglês, GdScript, JAVA, e SQL.<br>
+- 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos com Unity(C#), Godot(Gdscript) <br>
+- 🌎 &nbsp; Aprendendo para aplicações Web JS, HTML, CSS, Vue.js, React.js, Inglês, GdScript, JAVA, e SQL.<br>
 
 <h3> 📖: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
-
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![vue](https://camo.githubusercontent.com/ea9f80ac4db387ca253e1c9e4e95b611261790f42877d0782b8d26b7003d2b52/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5675652e6a73266d6573736167653d76322e3626636f6c6f723d344643303844267374796c653d666c61742d737175617265266c6f676f3d7675652e6a73266c6f676f436f6c6f723d666666666666)
-
 
 **Ferramentas de Desenvolvimento**
 
