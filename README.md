@@ -6,7 +6,7 @@
 - 👦 &nbsp; Me chamo Luiz Fernando de Melo. <br>
 - 📚 &nbsp; Atualmente cursando Técnologo em Sistemas Para Internet pela Uniasselv. <br>
 - 🌱 &nbsp; Aprendendo mais sobre desenvolvimento de jogos com C++(Unreal 5) <br>
-- 🌎 &nbsp; Aprendendo para aplicações Web JS, HTML, CSS, Vue.js, React.js, Inglês, GdScript, JAVA, e SQL.<br>
+- 🌎 &nbsp; Aprendendo para aplicações Web JS, HTML, CSS, React.js, JAVA SpringBoot, SQL.<br>
 
 <h3> 📖: &nbsp;Minhas Skills </h3>
 
